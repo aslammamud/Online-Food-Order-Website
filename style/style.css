@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding:20px 0 0 20px;
+	border:0;
+	background-color: lightblue;
+}
+
+header{
+	border: 5px solid #DE800E;
+	text-align:center;
+	color: #FF3137;
+	width: 500px;
+	margin-left:350px;
+	
+}
+
+#signup{
+	border: 5px solid #DE800E;
+	border-radius:20px;
+	background:linear-gradient(to bottom right, #FFE4B3, #FF7700);
+	text-align:center;
+	height: 300px;
+	width:400px;
+	margin-left:390px;
+	padding: 0 0 0 20px;
+}
+
+button{
+	float:right;
+	color:red;
+	margin: 10px 20px 0 0;
+}
