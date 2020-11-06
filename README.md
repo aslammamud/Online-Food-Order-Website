@@ -1,4 +1,4 @@
-#Online Food Order Website
+# Online Food Order Website
 
 It is a basic php based ecommerce website with Sgnup,Login,Admin and Cart Functionality.   
 You can login as admin. Admin can see his profile information, ordered food details and confirm them.    
